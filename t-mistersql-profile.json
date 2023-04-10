@@ -1,0 +1,26 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T02:32:29Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:matthewdeanmartin"
+    },
+    {
+      "Claim": "mdon:@mistersql@mastodon.social"
+    },
+    {
+      "Claim": "t:mistersql"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "af45633d6149eb8aa262c29d",
+    "Timestamp": "2023-04-10T17:17:06Z",
+    "Signature": "568d961c70787bf60ce87216a66fb6e51d9dc5d5ceb1d3c8bd5ac94e95e1c0bc0fbb4bef40a546c157bc954e77dba33689da472ce19463c98e248afb532c8c167c339785c246b53411a43ff4588b032144cfb15eaa21e5d53345fcba383c9b38826118a8c2a6cbf32775aa17b4c93aa4cfb88ef29490dad1bd3efa2e66ef1b5dcccbb30104996fe9e976195a85da7c4d6eeb0b778945f18cbba7f2f8132b3453bb497abcd5bd8f04f6bad433820a7dc6686f42757c33620ba70aeda5120ab3748154e252930ba92be4ad2a671163a7402af8ad587af373c121ea3faebd23fc92384dfa1dcb5605a9ea77be4a4f421a67840d1eb023fde2c3d3cf943e857d0492"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3caaf6b254387efaedfac228bac870b5c56b1108831efcb499d4b8b9c680b68e",
+  "ContentToHash": "v1|gh:matthewdeanmartin,mdon:@mistersql@mastodon.social,t:mistersql|2023-04-06T02:32:29Z"
+}
